@@ -1,0 +1,36 @@
+header{
+    margin-left: 10%;
+    font-family: Brush Script MT;
+    font-size:200%;
+    text-shadow:5px 3px red;
+}
+body{
+    background-color: cyan;
+}
+tr{
+   margin-left: 45%;
+}
+.submit{
+    background-color:lightgreen;
+}
+form{
+    font-size:115%;
+}
+div{
+    margin-top:10px;
+    font-family:sans-serif;
+}
+tb{
+    font-size:95%;
+    color:black;
+}
+footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+    color: green;
+}
